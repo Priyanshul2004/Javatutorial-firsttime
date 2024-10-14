@@ -1,0 +1,16 @@
+package Module11patternprinting;
+import java.util.*;
+
+public class A3squre {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Give the value of rows and column = ");
+        int n = sc.nextInt();
+          for(int i=0 ; i<n ; i++){
+            for(int j=0; j<n ; j++){
+                System.out.print(" *");
+            }
+            System.out.println();
+          }
+    }
+}
