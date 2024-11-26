@@ -1,0 +1,118 @@
+Here are ten important array questions that are frequently asked in interviews, covering a variety of fundamental concepts. Each question helps test skills in array manipulation, problem-solving, and algorithm efficiency.
+
+1. Two Sum
+Problem: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+Difficulty: Easy to Medium
+Concepts: Hashing, Two-pointer technique
+Common Follow-up: Can you solve this problem in 
+𝑂
+(
+𝑛
+)
+O(n) time?
+
+2. Find the Missing Number
+Problem: Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one number that is missing.
+Difficulty: Easy
+Concepts: Summation formula, XOR
+Variants: Find two missing numbers, or find the missing number in an unsorted list.
+
+3. Maximum Subarray Sum (Kadane's Algorithm)
+Problem: Find the contiguous subarray (containing at least one number) with the largest sum and return its sum.
+Difficulty: Medium
+Concepts: Dynamic Programming
+Common Follow-up: Can you modify the solution to return the subarray itself?
+
+
+
+4. Product of Array Except Self
+Problem: Given an integer array nums, return an array answer such that answer[i] is equal to the product of all elements of nums except nums[i], without using division.
+Difficulty: Medium
+Concepts: Prefix and Suffix Products
+Common Follow-up: Solve it with 
+𝑂
+(
+1
+)
+O(1) extra space (excluding the output array).
+
+
+
+
+5. Merge Intervals
+Problem: Given an array of intervals where intervals[i] = [start, end], merge all overlapping intervals and return an array of the non-overlapping intervals.
+Difficulty: Medium
+Concepts: Sorting, Merging Intervals
+Common Follow-up: Solve it with in-place modifications.
+
+
+
+
+6. Best Time to Buy and Sell Stock
+Problem: Given an array prices where prices[i] is the price of a given stock on the ith day, find the maximum profit you can achieve by buying and selling one share of the stock.
+Difficulty: Easy to Medium
+Concepts: Dynamic Programming
+Variants: Maximum profit with multiple transactions allowed, or with a cooldown period.
+
+
+
+
+
+
+7. Find All Duplicates in an Array
+Problem: Given an integer array nums of size n where all elements appear only once except some elements which appear twice, find all elements that appear twice.
+Difficulty: Medium
+Concepts: Hashing, Cyclic Sort
+Common Follow-up: Can you do it without extra space and in 
+𝑂
+(
+𝑛
+)
+O(n) time?
+
+
+
+
+
+
+
+8. Rotate Array
+Problem: Rotate an array nums of n elements to the right by k steps.
+Difficulty: Medium
+Concepts: Array Reversal, In-place Manipulation
+Variants: Rotate to the left or rotate a 2D array.
+
+
+
+
+
+
+
+9. Trapping Rain Water
+Problem: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+Difficulty: Hard
+Concepts: Two-pointer technique, Prefix and Suffix Arrays
+Common Follow-up: Can you solve it with 
+𝑂
+(
+1
+)
+O(1) extra space?
+
+
+
+
+
+
+
+
+10. Longest Consecutive Sequence
+Problem: Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
+Difficulty: Medium
+Concepts: Hashing, Set Manipulation
+Common Follow-up: Solve it in 
+𝑂
+(
+𝑛
+)
+O(n) time complexity.

@@ -1,4 +1,4 @@
-package Pratice;
+package A1Pratice;
 
 public class P2Rotatearray {
     public static void reverse(int[] arr, int i, int j) {

@@ -2,3 +2,12 @@ solve the my question in my methods
 donst use another method of solving and
 also create a comment where i make my 
 mistake in my code 
+
+
+
+////////////////////////////////////////////////////////////////////
+
+
+
+provide the structure of a question and some 
+text cases of question like leetcode platform
